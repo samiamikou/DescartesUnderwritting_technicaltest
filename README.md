@@ -6,6 +6,7 @@ In the folder predictions you can find the predictions of the X_test as a csv fi
 
 
 Python version 3.7.12
+
 Packages used:
   - Pandas
   - Numpy
