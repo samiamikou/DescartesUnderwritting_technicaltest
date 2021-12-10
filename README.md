@@ -1,6 +1,6 @@
 # DescartesUnderwritting_technicaltest
 
-The notebook Auto-Insurance-fall-2017-MIKOU-samia.ipynb contains all the analysis of the dataset and training of the models. We explain each step taken. We used google colab in order to create this notebook.
+The notebook Auto-Insurance-fall-2017-MIKOU-Samia1.ipynb contains all the analysis of the dataset and training of the models. We explain each step taken. We used google colab in order to create this notebook.
 
 In the folder predictions you can find the predictions of the X_test as a csv file.
 
